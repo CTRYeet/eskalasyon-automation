@@ -24,6 +24,7 @@ Manual tracking of operational escalations and logistics processes often leads t
 ---
 
 ### 📊 Workflow Architecture
+![App Preview](app-ESK-PNG-jpg)
 
 ### 🎯 Business Impact
 
