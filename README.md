@@ -25,7 +25,7 @@ Manual tracking of operational escalations and logistics processes often leads t
 
 ### 📊 Workflow Architecture
 ![App Preview](app-ESK-PNG-jpg)
-
+![App Preview](app-esk-exc.jpg)
 ### 🎯 Business Impact
 
 * **Time Savings:** Significantly reduced manual processing time for task monitoring.
